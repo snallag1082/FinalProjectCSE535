@@ -1,0 +1,8 @@
+__pycache__/
+*.h5
+*.DS_Store
+Letters/
+Words/
+posenet/node_modules
+posenet/package-lock.json
+asl-alphabet/
